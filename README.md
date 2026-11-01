@@ -1,4 +1,4 @@
-# agentdeals-dev
+# AgentDeals
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,155 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentdeals-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentdeals.dev/
+AgentDeals provides pricing context for AI agents, aggregating over 1,493 free‑tier deals across 60 categories such as developer tools, cloud infrastructure, and consumer services. The platform lets AI agents retrieve up‑to‑date pricing data to improve recommendations, and offers browsing, search, and API access for developers.
+
+**Areas:** AI · Pricing · DeveloperTools · CloudInfrastructure · ConsumerServices
+
+## AgentDeals on APIs.io
+
+Everything profiled for AgentDeals is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentdeals-dev/](https://apis.io/providers/agentdeals-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (30)
+
+- [AgentDeals Ai Coding Pricing API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-ai-coding-pricing-api/) — The Ai Coding Pricing API from AgentDeals — 1 operation(s) for ai coding pricing.
+- [AgentDeals Audit Stack API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-audit-stack-api/) — The Audit Stack API from AgentDeals — 1 operation(s) for audit stack.
+- [AgentDeals Categories API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-categories-api/) — The Categories API from AgentDeals — 1 operation(s) for categories.
+- [AgentDeals Changes API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-changes-api/) — The Changes API from AgentDeals — 1 operation(s) for changes.
+- [AgentDeals Compare API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-compare-api/) — The Compare API from AgentDeals — 1 operation(s) for compare.
+- [AgentDeals Costs API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-costs-api/) — The Costs API from AgentDeals — 1 operation(s) for costs.
+- [AgentDeals Deadlines API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-deadlines-api/) — The Deadlines API from AgentDeals — 1 operation(s) for deadlines.
+- [AgentDeals Details API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-details-api/) — The Details API from AgentDeals — 1 operation(s) for details.
+- [AgentDeals Digest API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-digest-api/) — The Digest API from AgentDeals — 2 operation(s) for digest.
+- [AgentDeals Docs API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-docs-api/) — The Docs API from AgentDeals — 1 operation(s) for docs.
+- [AgentDeals Expiring API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-expiring-api/) — The Expiring API from AgentDeals — 1 operation(s) for expiring.
+- [AgentDeals Feed API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-feed-api/) — The Feed API from AgentDeals — 1 operation(s) for feed.
+- [AgentDeals Feed.xml API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-feed-xml-api/) — The Feed.xml API from AgentDeals — 1 operation(s) for feed.xml.
+- [AgentDeals Freshness API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-freshness-api/) — The Freshness API from AgentDeals — 1 operation(s) for freshness.
+- [AgentDeals Hosting Pricing API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-hosting-pricing-api/) — The Hosting Pricing API from AgentDeals — 1 operation(s) for hosting pricing.
+- [AgentDeals Llm Pricing API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-llm-pricing-api/) — The Llm Pricing API from AgentDeals — 1 operation(s) for llm pricing.
+- [AgentDeals New API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-new-api/) — The New API from AgentDeals — 1 operation(s) for new.
+- [AgentDeals Newest API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-newest-api/) — The Newest API from AgentDeals — 1 operation(s) for newest.
+- [AgentDeals Offers API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-offers-api/) — The Offers API from AgentDeals — 1 operation(s) for offers.
+- [AgentDeals Openapi.json API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-openapi-json-api/) — The Openapi.json API from AgentDeals — 1 operation(s) for openapi.json.
+- [AgentDeals Pageviews API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-pageviews-api/) — The Pageviews API from AgentDeals — 1 operation(s) for pageviews.
+- [AgentDeals Query Log API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-query-log-api/) — The Query Log API from AgentDeals — 1 operation(s) for query log.
+- [AgentDeals Referral Codes API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-referral-codes-api/) — The Referral Codes API from AgentDeals — 2 operation(s) for referral codes.
+- [AgentDeals Referral Programs API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-referral-programs-api/) — The Referral Programs API from AgentDeals — 1 operation(s) for referral programs.
+- [AgentDeals Signal API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-signal-api/) — The Signal API from AgentDeals — 1 operation(s) for signal.
+- [AgentDeals Stack API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-stack-api/) — The Stack API from AgentDeals — 1 operation(s) for stack.
+- [AgentDeals Startup Credits API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-startup-credits-api/) — The Startup Credits API from AgentDeals — 1 operation(s) for startup credits.
+- [AgentDeals Stats API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-stats-api/) — The Stats API from AgentDeals — 1 operation(s) for stats.
+- [AgentDeals Traffic API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-traffic-api/) — The Traffic API from AgentDeals — 1 operation(s) for traffic.
+- [AgentDeals Vendor Risk API](https://apis.io/apis/agentdeals-dev/agentdeals-dev-vendor-risk-api/) — The Vendor Risk API from AgentDeals — 1 operation(s) for vendor risk.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentdeals Dev Agentic Access](https://apis.io/agentic-access/agentdeals-dev/agentdeals-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ChangeDateWindow](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-change-date-window/)
+- [DealChange](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-deal-change/)
+- [Offer](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-offer/)
+- [Provenance](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-provenance/)
+- [PublishedDealChange](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-published-deal-change/)
+- [SourceCheck](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-source-check/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentdeals Dev Context](https://apis.io/jsonld/agentdeals-dev/agentdeals-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentDeals API Rules](https://apis.io/rules/agentdeals-dev/agentdeals-dev-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentdeals Dev Domain Security](https://apis.io/security/agentdeals-dev/agentdeals-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentdeals Dev Plans Pricing](https://apis.io/plans/agentdeals-dev/agentdeals-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentdeals.dev/)
+- [Documentation](https://agentdeals.dev/guides)
+- [Getting started](https://agentdeals.dev/setup)
+- [API reference](https://agentdeals.dev/developers)
+- [Pricing](https://agentdeals.dev/pricing-changes)
+- [Security](https://agentdeals.dev/category/security)
+- [Privacy policy](https://agentdeals.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.4** — developing · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 56.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 49.5 |
+
+**Agent readiness 32.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentdeals-dev/](https://apis.io/providers/agentdeals-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentDeals: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentdeals-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
