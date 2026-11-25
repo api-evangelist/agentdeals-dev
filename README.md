@@ -66,7 +66,7 @@
 
 AgentDeals provides pricing context for AI agents, aggregating over 1,493 free‑tier deals across 60 categories such as developer tools, cloud infrastructure, and consumer services. The platform lets AI agents retrieve up‑to‑date pricing data to improve recommendations, and offers browsing, search, and API access for developers.
 
-**Areas:** AI · Pricing · DeveloperTools · CloudInfrastructure · ConsumerServices
+**Areas:** Artificial Intelligence · Pricing · Developer Tools · Cloud Infrastructure · Consumer Services
 
 ## AgentDeals on APIs.io
 
@@ -109,13 +109,19 @@ Everything profiled for AgentDeals is published on APIs.io rather than in this r
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentdeals-dev-mcp.yml](https://apis.io/servers/agentdeals-dev/agentdeals-dev-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentdeals Dev Agentic Access](https://apis.io/agentic-access/agentdeals-dev/agentdeals-dev-agentic-access/)
+- [AgentDeals Agentic Access](https://apis.io/agentic-access/agentdeals-dev/agentdeals-dev-agentic-access/)
 
-#### JSON Schema (6)
+#### JSON Schema (7)
 
 The data models the API reads and writes.
 
@@ -125,6 +131,7 @@ The data models the API reads and writes.
 - [Provenance](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-provenance/)
 - [PublishedDealChange](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-published-deal-change/)
 - [SourceCheck](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-source-check/)
+- [TrafficWindow](https://apis.io/schemas/agentdeals-dev/agentdeals-dev-traffic-window/)
 
 #### JSON-LD (1)
 
@@ -142,13 +149,13 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentdeals Dev Domain Security](https://apis.io/security/agentdeals-dev/agentdeals-dev-domain-security/)
+- [AgentDeals Domain Security](https://apis.io/security/agentdeals-dev/agentdeals-dev-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentdeals Dev Plans Pricing](https://apis.io/plans/agentdeals-dev/agentdeals-dev-plans-pricing/)
+- [AgentDeals Plans Pricing](https://apis.io/plans/agentdeals-dev/agentdeals-dev-plans-pricing/)
 
 ## Where to find this API
 
@@ -164,25 +171,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.4** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 41.7** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 67.9 |
-| Contract quality | 56.5 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
+| Discoverability | 75.0 |
+| Contract quality | 59.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 35.0 |
-| Access clarity | 49.5 |
+| Access clarity | 46.8 |
 
-**Agent readiness 32.9** — agent-ready
+**Agent readiness 27.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -190,7 +197,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -200,6 +207,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | paginated |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
 
